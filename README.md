@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-robot66
-- 👀 I’m interested in learn programing methods 
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on projects for beginners 
+- 👀 I’m interested in learn programing methods.
+- 🌱 I am currently taking the course CS50.
+- 💞️ I’m looking to collaborate on projects for beginners. 
 - 📫 How to reach me gallenova10@gmail.com
 
 <!---
